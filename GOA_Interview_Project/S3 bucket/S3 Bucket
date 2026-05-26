@@ -1,0 +1,6 @@
+# Create followng General bucket.
+goa-data-pipeline-bronze-ap-ca-central-1-lab
+goa-data-pipeline-golden-ap-ca-central-1-lab
+goa-data-pipeline-silver-ap-ca-central-1-lab
+goa-upload-pdfs
+goatextractresultsd
