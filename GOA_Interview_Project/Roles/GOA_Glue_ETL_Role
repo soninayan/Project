@@ -1,0 +1,4 @@
+Assign
+   + CloudWatchLogFullAccess
+   + AWSGlueServiceRole
+   + AmazonS3FullAccess
